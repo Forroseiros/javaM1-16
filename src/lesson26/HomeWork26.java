@@ -12,7 +12,7 @@ public class HomeWork26 {
     }
 
     public static boolean bobThere(String input) {
-        return input.contains("bob")||input.charAt(0)=='b'&&input.charAt(2)=='b';
+        return input.contains("bob") || input.charAt(0) == 'b' && input.charAt(2) == 'b';
 
     }
 
