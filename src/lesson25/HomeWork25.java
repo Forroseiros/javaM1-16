@@ -24,7 +24,7 @@ public class HomeWork25 {
     }
 
     private static void findBandA(int a, int b) {
-        int number = 0;
+        int number = a;
         do {
             System.out.println(number);
             number++;
